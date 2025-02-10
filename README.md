@@ -137,4 +137,4 @@ This project is for educational purposes only. The predictions made by this mode
 
 Your Name - [anwesha.jain675@gmail.com](anwesha.jain675@gmail.com)
 
-Project Link: [https://github.com/yourusername/stock-prediction-dashboard]()
+Project Link: [https://github.com/anwesha067/Stock-Price-Prediction](https://github.com/anwesha067/Stock-Price-Prediction)
