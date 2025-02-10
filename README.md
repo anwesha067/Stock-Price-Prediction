@@ -49,8 +49,8 @@ scikit-learn==1.0.2
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/stock-prediction-dashboard.git
-cd stock-prediction-dashboard
+git clone https://github.com/anwesha067/Stock-Price-Prediction.git
+cd stock-price-prediction
 ```
 
 2. Install required packages:
@@ -135,6 +135,6 @@ This project is for educational purposes only. The predictions made by this mode
 
 ## 📧 Contact
 
-Your Name - [your.email@example.com](mailto:your.email@example.com)
+Your Name - [anwesha.jain675@gmail.com](anwesha.jain675@gmail.com)
 
-Project Link: [https://github.com/yourusername/stock-prediction-dashboard](https://github.com/yourusername/stock-prediction-dashboard)
+Project Link: [https://github.com/yourusername/stock-prediction-dashboard]()
